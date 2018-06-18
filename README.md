@@ -1,4 +1,4 @@
-# JavaScript Condational Form for bangladesh Division, Districts &amp; Police Station and more
+# JavaScript Conditional Form for bangladesh Division, District & Police Station and more
 
 ## HTML
 ```
@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>JavaScript Condational Form for bangladesh Division, Districts & Police Station and more</title>
+	<title>JavaScript Conditional Form for bangladesh Division, District & Police Station and more</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
