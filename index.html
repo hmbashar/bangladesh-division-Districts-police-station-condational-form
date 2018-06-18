@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JavaScript Conditional Form</title>
+</head>
+<body>
+	<form action="">
+		<label for="divisions">Select Division</label>
+		<select name="divisions" id="divisions" onchange="divisionsList();">
+			<option disabled selected>Select Division</option>
+			<option value="Barishal">Barishal</option>
+			<option value="Chattogram">Chattogram</option>
+			<option value="Dhaka">Dhaka</option>
+			<option value="Khulna">Khulna</option>
+			<option value="Mymensingh">Mymensingh</option>
+			<option value="Rajshahi">Rajshahi</option>
+			<option value="Rangpur">Rangpur</option>
+			<option value="Sylhet">Sylhet</option>
+		</select>
+		<br>
+		<br>
+		<label for="distr">Select District</label>
+		<select name="" id="distr" onchange="thanaList();"></select>
+		<br>
+		<br>
+		<label for="polic_sta">Select Police Station</label>
+		<select name="" id="polic_sta"></select>
+	</form>
+	<script src="jquery-3.2.1.min.js"></script>
+	<script src="javascript.js"></script>
+</body>
+</html>
