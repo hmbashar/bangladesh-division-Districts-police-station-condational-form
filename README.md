@@ -64,4 +64,5 @@ function thanaList(){
 		var thanaList = '<option disabled selected>Select District</option><option value="Barguna">Barguna</option><option value="Barishal">Barishal</option><option value="Bhola">Bhola</option><option value="Jhalokati">Jhalokati</option><option value="Patuakhali">Patuakhali</option><option value="Pirojpur">Pirojpur</option>';
 	}
 	document.getElementById("polic_sta").innerHTML= thanaList;
-}```
+}
+```
