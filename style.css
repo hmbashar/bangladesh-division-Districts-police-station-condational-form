@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+body{font-size:16px;background-color:#16a085;color:#fff;background-image:url(img/bg.jpg);background-size:cover;}
+
+.javascript-condational-form{overflow: hidden;text-align: center;}
+.javascript-condational-form form{margin-top: 100px;background-color: #1abc9c;display: inline-block;padding: 50px 100px;border-radius: 5px;}
+.javascript-condational-form form label{font-size: 25px;margin-right: 8px;}
+.javascript-condational-form form select{font-size: 20px;min-width: 150px;border: 1px solid #ddd;border-radius: 3px;padding: 5px;color: #666;}
+.javascript-condational-form form select option{font-size: 20px;color: #333;}
+.message{text-align: center;margin-top: 50px;}
+.message h2.welcome{}
+.message h4{font-size: 18px;margin-top: 10px;margin-bottom: 10px;}
+.message h4 a{color:#fff;}
+.message p{font-size: 18px;}
+.message p a{color:#ecf0f1;}
