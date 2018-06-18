@@ -1,6 +1,6 @@
 # JavaScript Condational Form for bangladesh Division, Districts &amp; Police Station and more
 
-[Demo]{https://hmbashar.github.io/bangladesh-division-Districts-police-station-condational-form/}
+[Demo](https://hmbashar.github.io/bangladesh-division-Districts-police-station-condational-form/)
 
 ## HTML
 ```<!DOCTYPE html>
