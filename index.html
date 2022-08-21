@@ -1,42 +1,43 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>JavaScript Condational Form for bangladesh Division, Districts & Police Station and more</title>
-	<link rel="stylesheet" href="style.css">
+	<title>JavaScript Conditional Form</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	
-	<div class="javascript-condational-form">		
-		<form action="">
-			<div class="title">
+  <div class="javascript-condational-form">
+    <form action="">
+      <!-- Heading -->
+      <div class="title">
 				<h2>Bangladesh Division's List Conditional Form</h2>
-				</div>
-			<!--Division Section-->
-			<label for="divisions">Select Division</label>
-			<select name="divisions" id="divisions" onchange="divisionsList();">
-				<option disabled selected>Select Division</option>
-				<option value="Barishal">Barishal</option>
-				<option value="Chattogram">Chattogram</option>
-				<option value="Dhaka">Dhaka</option>
-				<option value="Khulna">Khulna</option>
-				<option value="Mymensingh">Mymensingh</option>
-				<option value="Rajshahi">Rajshahi</option>
-				<option value="Rangpur">Rangpur</option>
-				<option value="Sylhet">Sylhet</option>
-			</select><!--/ Division Section-->
-			<br>
-			<br>
-			<!--Districts Section-->
-			<label for="distr">Select District</label>
-			<select name="" id="distr" onchange="thanaList();"></select><!--/ Districts Section-->
-			<br>
-			<br>
-			<!--Police Station Section-->
-			<label for="polic_sta">Select Police Station</label>
-			<select name="" id="polic_sta"></select><!--/ Police Station Section-->
-		</form>
-	</div>
+			</div><!--/ Heading -->
+      <!--Division Section-->
+      <label for="divisions">Select Division</label>
+      <select name="divisions" id="divisions" onchange="divisionsList();">
+        <option disabled selected>Select Division</option>
+        <option value="Barishal">Barishal</option>
+        <option value="Chattogram">Chattogram</option>
+        <option value="Dhaka">Dhaka</option>
+        <option value="Khulna">Khulna</option>
+        <option value="Mymensingh">Mymensingh</option>
+        <option value="Rajshahi">Rajshahi</option>
+        <option value="Rangpur">Rangpur</option>
+        <option value="Sylhet">Sylhet</option>
+      </select><!--/ Division Section-->
+      <br>
+      <br>
+      <!--Districts Section-->
+      <label for="distr">Select District</label>
+      <select name="" id="distr" onchange="thanaList();"></select><!--/ Districts Section-->
+      <br>
+      <br>
+      <!--Police Station Section-->
+      <label for="polic_sta">Select Police Station</label>
+      <select name="" id="polic_sta"></select><!--/ Police Station Section-->
+    </form>
+  </div>
+	<script src="jquery-3.2.1.min.js"></script>
 	<script src="javascript.js"></script>
 </body>
 </html>
