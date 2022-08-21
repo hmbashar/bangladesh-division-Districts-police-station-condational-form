@@ -1,0 +1,20 @@
+*{margin:0;padding:0;}
+body{font-size:16px;background-color:#3863a3;color:#fff;background-image:white;}
+
+.javascript-condational-form{overflow: hidden;text-align: center;}
+.javascript-condational-form form{margin-top: 100px;background-color: #4c93e4;display: inline-block;padding: 50px 100px;border-radius: 5px;}
+.javascript-condational-form form label{font-size: 25px;margin-right: 8px;}
+.javascript-condational-form form select{font-size: 20px;min-width: 150px;border: 1px solid #ddd;border-radius: 3px;padding: 5px;color: #666;}
+.javascript-condational-form form select option{font-size: 20px;color: #333;}
+.message{text-align: center;margin-top: 50px;}
+.title{
+    margin-bottom: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: #333;
+    background-color: #4970aa;
+    padding: 2px 5px 5px 5px;
+}
+.message h4{font-size: 18px;margin-top: 10px;margin-bottom: 10px;}
+.message h4 a{color:#fff;}
+.message p{font-size: 18px;}
+.message p a{color:#ecf0f1;}
