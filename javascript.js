@@ -9,7 +9,7 @@ function divisionsList() {
 	}
 	// set Chattogram division districts
 	else if(diviList == 'Chattogram') {
-		var disctList = '<option disabled selected>Select District</option><option value="Bandarban">Bandarban</option><option value="Chandpur">Chandpur</option><option value="Chattogram">Chattogram</option><option value="Cumilla">Cumilla</option><option value="Cox\'s Bazar">Cox\'s Bazar</option><option value="Feni">Feni</option><option value="Khagrachhari">Khagrachhari</option><option value="Noakhali">Noakhali</option><option value="Rangamati">Rangamati</option>';	
+		var disctList = '<option disabled selected>Select District</option><option value="Bandarban">Bandarban</option><option value="Chandpur">Chandpur</option><option value="Chattogram">Chattogram</option><option value="Cumilla">Cumilla</option><option value="Cox\'s Bazar">Cox\'s Bazar</option><option value="Feni">Feni</option><option value="Khagrachhari">Khagrachhari</option><option value="Noakhali">Noakhali</option><option value="Rangamati">Rangamati</option><option value="Lakshmipur">Lakshmipur</option>';	
 	}
 	// set Dhaka division districts
 	else if(diviList == 'Dhaka') {
@@ -136,8 +136,8 @@ function thanaList(){
 	if(DisList == 'Lalmonirhat') {
 		var thanaList = '<option value="">Select One</option><option value="Aditmari">Aditmari</option><option value="Hatibanda">Hatibanda</option><option value="Kaliganj">Kaliganj</option><option value="Lalmonirhat Sadar">Lalmonirhat Sadar</option><option value="Patgram">Patgram</option><option value="Others">Others</option>';
 	}
-	if(DisList == 'Luxmipur') {
-		var thanaList = '<option value="">Select One</option><option value="Komol Nogor">Komol Nogor</option><option value="Luxmipur Sadar">Luxmipur Sadar</option><option value="Raipur">Raipur</option><option value="Ramganj">Ramganj</option><option value="Ramgati">Ramgati</option><option value="Others">Others</option>';
+	if(DisList == 'Lakshmipur') {
+		var thanaList = '<option value="">Select One</option><option value="Komol Nogor">Komol Nogor</option><option value="Lakshmipur Sadar">Lakshmipur Sadar</option><option value="Raipur">Raipur</option><option value="Ramganj">Ramganj</option><option value="Ramgati">Ramgati</option><option value="Others">Others</option>';
 	}
 	if(DisList == 'Madaripur') {
 		var thanaList = '<option value="">Select One</option><option value="Kalkini">Kalkini</option><option value="Madaripur Sadar">Madaripur Sadar</option><option value="Rajoir">Rajoir</option><option value="Shibchar">Shibchar</option><option value="Others">Others</option>';
