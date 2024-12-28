@@ -1,0 +1,17 @@
+{
+    "Dhaka": {
+      "Dhaka": ["Adabor", "Airport", "Badda", "Banani", "Bangshal", "Bhashantek", "Cantonment", "Chackbazar", "Dakshin Khan", "Darus-Salam", "Demra", "Dhamrai", "Dhanmondi", "Dohar", "Gandaria", "Gulshan", "Hatirjheel", "Hazaribhag", "Jattrabari", "Kadamtoli", "Kafrul", "Kalabagan", "Kamrangir Char", "Keraniganj Model", "Khilgaon", "Khilkhet", "Kotwali", "Lalbag", "Mirpur Model", "Mohammadpur", "Motijheel", "Mugda", "Nawabganj", "New Market", "Pallabi", "Paltan Model", "Ramna Model", "Rampura", "Rupnagar", "Sabujbhag", "Savar", "Shah Ali", "Shahbag", "Shahjahanpur", "Sher e Bangla Nagar", "Shyampur", "South Keraniganj", "Sutrapur", "Tejgaon", "Tejgaon Industrial", "Turag", "Uttar Khan", "Uttara East", "Uttara West", "Vatara", "Wari", "Others"],
+      "Faridpur": ["Alfadanga", "Bhanga", "Boalmari", "Char Bhadrasan", "Faridpur Sadar", "Madukhali", "Nagarkanda", "Sadarpur", "Saltha", "Others"],
+      "Gazipur": ["Gazipur Sadar", "Kaliakair", "Kaliganj", "Kapasia", "Sreepur", "Tongi", "Others"],
+      "Gopalganj": ["Gopalganj Sadar", "Kashiani", "Kotalipara", "Muksudpur", "Tungi Para", "Others"],
+      "Kishoreganj": ["Austagram", "Bajitpur", "Bhairab", "Hossenpur", "Itna", "Karimganj", "Katiadi", "Kishoregonj SADAR", "Kuliar Char", "Mithamoin", "Nikli", "Pakundia", "Tarail", "Others"],
+      "Madaripur": ["Kalkini", "Madaripur Sadar", "Rajoir", "Shibchar", "Others"],
+      "Manikganj": ["Daulatpur", "Ghior", "Harirampur", "Manikganj Sadar", "Saturia", "Shibalaya", "Singair", "Others"],
+      "Munshiganj": ["Gazaria", "Louhajang", "Munshiganj Sadar", "Serajdikhan", "Sreenagar", "Tongibari", "Others"],
+      "Narayanganj": ["Araihazar", "Bandar", "Narayanganj Sadar", "Rupganj", "Siddirganj", "Sonargaon", "Others"],
+      "Narsingdi": ["Belabo", "Manohardi", "Narsingdi Sadar", "Palash", "Roypura", "Shibpur", "Others"],
+      "Rajbari": ["Balia Kandi", "Goalandaghat", "Kalukhali", "Pangsha", "Rajbari Sadar", "Others"],
+      "Shariatpur": ["Bhaderganj", "Damudya", "Gosairhat", "Naria", "Palong(Sadar)", "Zanjira", "Others"],
+      "Tangail": ["Basail", "Bhuapur", "Delduar", "Dhonbari", "Ghatail", "Gopalpur", "Kalihati", "Madhupur", "Mirzapur", "Nagarpur", "Sakhipur", "Tangail Sadar", "Others"]
+    }
+}

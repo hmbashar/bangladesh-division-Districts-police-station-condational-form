@@ -1,0 +1,8 @@
+{
+    "Sylhet": {
+      "Habiganj": ["Ajmirganj", "Bahubal", "Baniachang", "Chunarughat", "Habiganj Sadar", "Lakhai", "Madhabpur", "Nabiganj", "Shayestaganj", "Others"],
+      "Mauluvibazar": ["Barlekha", "Juri", "Kamalganj", "Kulaura", "Mauluvi Bazar Sadar", "Rajnagar", "Sreemangal", "Others"],
+      "Sunamganj": ["Bishwambarpur", "Chhatak", "Daxin Sunamganj", "Derai", "Dharampasha", "Dowarabazar", "Jagannatpur", "Jamalganj", "Sulla", "Sunamganj Sadar", "Tahirpur", "Others"],
+      "Sylhet": ["Balaganj", "Beani Bazar", "Bishwanath", "Companiganj", "Fenchuganj", "Golabganj", "Gowainghat", "Jaintiapur", "Kanaighat", "Kowtali", "South Surma", "Zakirganj", "Others"]
+    }
+}

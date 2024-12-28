@@ -1,0 +1,12 @@
+{
+    "Rangpur": {
+      "Dinajpur": ["Biral", "Birampur", "Birganj", "Bochaganj", "Chirirbandar", "Dinajpur Sadar", "Fulbari", "Ghoraghat", "Hakimpur", "Kaharole", "Khansama", "Nawabganj", "Parbatipur", "Others"],
+      "Gaibandha": ["Fulchhari", "Gaibandha Sadar", "Gobidaganj", "Palashbari", "Sadullapur", "Saghatta", "Sundarganj", "Others"],
+      "Kurigram": ["Bhurungamari", "Char Rajibpur", "Chilmari", "Kurigram Sadar", "Nageshwari", "Phulbari", "Rajarhat", "Rajibpur", "Rowmari", "Ulipur", "Others"],
+      "Lalmonirhat": ["Aditmari", "Hatibanda", "Kaliganj", "Lalmonirhat Sadar", "Patgram", "Others"],
+      "Nilphamari": ["Dimla", "Domar", "Jaldhaka", "Kishoreganj", "Nilphamari Sadar", "Saidpur", "Others"],
+      "Panchagarh": ["Atwari", "Boda", "Debiganj", "Panchagarh Sadar", "Tentulia", "Others"],
+      "Rangpur": ["Badarganj", "Gangachara", "Kaunia", "Mitha Pukur", "Pirgachha", "Pirganj", "Rangpur Sadar", "Taraganj", "Others"],
+      "Thakurgaon": ["Baliadangi", "Haripur", "Pirganj", "Ranisankail", "Thakurgaon Sadar", "Others"]
+    }
+}

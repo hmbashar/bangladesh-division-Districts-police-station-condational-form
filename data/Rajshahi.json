@@ -1,0 +1,12 @@
+{
+    "Rajshahi": {
+      "Bogura": ["Adamdighi", "Bogura Sadar", "Dhunat", "Dhupchanchia", "Gabtali", "Kahaloo", "Nandigram", "Sariakandi", "Shajhanpur", "Sherpur", "Shibganj", "Sonatola", "Others"],
+      "Chapai Nawabganj": ["Bholahat", "Gomastapur", "Nachole", "Nawabganj Sadar", "Shibganj", "Others"],
+      "Jaipurhat": ["Akkelpur", "Joypurhat  Sadar", "Kalai", "Khetlal", "Panchbibi", "Others"],
+      "Naogaon": ["Atrai", "Badalgachhi", "Dhamoirhat", "Mahadebpur", "Manda", "Naogaon Sadar", "Niamatpur", "Patnitala", "Porsha", "Raninagar", "Sapahar", "Others"],
+      "Natore": ["Bagati Para", "Baraigram", "Gurudaspur", "Lalpur", "Naldanga", "Natore Sadar", "Singra", "Others"],
+      "Pabna": ["Atgharia", "Bera", "Bhangura", "Chatmohar", "Faridpur", "Ishwardi", "Pabna Sadar", "Santhia", "Sujanagar", "Others"],
+      "Rajshahi": ["Balia Kandi", "Goalandaghat", "Kalukhali", "Pangsha", "Rajbari Sadar", "Others"],
+      "Sirajganj": ["Belkuchi", "Chauhali", "Kamarkhanda", "Kazipur", "Royganj", "Shahjadpur", "Sirajganj Sadar", "Tarash", "Ullah Para", "Others"]
+    }
+}
