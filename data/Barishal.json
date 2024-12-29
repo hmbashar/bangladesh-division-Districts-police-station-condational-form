@@ -1,0 +1,10 @@
+{
+    "Barishal": {
+      "Barguna": ["Amtali", "Bamna", "Barguna Sadar", "Betagi", "Patharghata", "Others"],
+      "Barishal": ["Agailjhara", "Babuganj", "Bakerganj", "Banari Para", "Barishal Sadar (Kotwali)", "Gaurnadi", "Hizla", "Mehendiganj", "Muladi", "Wazirpur", "Others"],
+      "Bhola": ["Bhola Sadar", "Burhanuddin", "Char Fasson", "Daulatkhan", "Lalmohan", "Manpura", "Tazumuddin", "Others"],
+      "Jhalokhathi": ["Jhalokathi Sadar", "Kathalia", "Nalchity", "Rajapur", "Others"],
+      "Patuakhali": ["Bauphal", "Dashmina", "Galachipa", "Kalapara", "Mirzaganj", "Patuakhali Sadar", "Rangabali", "Others"],
+      "Pirojpur": ["Bhandaria", "Kawkhali", "Mathbaria", "Nazirpur", "Nesarabad (Swarupkathi)", "Pirojpur Sadar", "Others"]
+    }
+}
