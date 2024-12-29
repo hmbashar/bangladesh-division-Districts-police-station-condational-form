@@ -1,0 +1,14 @@
+{
+    "Khulna": {
+      "Bagerhat": ["Bagerhat Sadar", "Chitalmari", "Fakirhat", "Kachua", "Mollahat", "Mongla", "Morrelganj", "Rampal", "Sarankhola", "Others"],
+      "Chuadanga": ["Alamdanga", "Chuadanga Sadar", "Damurhuda", "Jiban Nagar", "Others"],
+      "Jashore": ["Abhay Nagar", "Bagherpara", "Chowghacha", "Jhikargacha", "Keshabpur", "Kotwali", "Manirampur", "Sharsha", "Others"],
+      "Jhenaidah": ["Harinakunda", "Jhenaidah Sadar", "Kaliganj", "Kotchandpur", "Mahespur", "Shailkupa", "Others"],
+      "Khulna": ["Batiaghata", "Dacope", "Daulatpur", "Dighala", "Dumuria", "Khalishpur", "Khan Jahan Ali", "Khulna Sadar", "Koyra", "Paikgachha", "Phultala", "Rupsa", "Sonadanga", "Terokhada", "Others"],
+      "Kushtia": ["Bheramara", "Daulatpur", "Khoksa", "Kumarkhali", "Kushtia Sadar", "Mirpur", "Others"],
+      "Magura": ["Magura Sadar", "Mohammadpur", "Shalikha", "Sreepur", "Others"],
+      "Meharpur": ["Gangni", "Meherpur Sadar", "Mujib Nagar", "Others"],
+      "Narail": ["Kalia", "Lohagara", "NarailSadar", "Others"],
+      "Satkhira": ["Assasuni", "Debhata", "Kalaroa", "Kaliganj", "Satkhira Sadar", "Shyamnagar", "Tala", "Others"]
+    }
+}
